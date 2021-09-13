@@ -1,5 +1,5 @@
 # Audio-Modulation-and-Demodulation
-This proyect consists in using two NI ELVIS III, each with their own Emona Communications Board for NI ELVIS III, which are comunicating by TCP/IP.
+This proyect consists in using two NI ELVIS III, each with their own Emona Communications Board for NI ELVIS III, which are communicating by TCP/IP.
 The whole system can be controlled through a NI SystemLink Cloud Dashboard.
 
 The first ELVIS III is uploaded with different songs which can be selected from NI SystemLink Cloud Dashboard. The song will be outputed as a signal 
